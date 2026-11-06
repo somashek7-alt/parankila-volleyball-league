@@ -5,5 +5,5 @@ pages_build_output_dir = "./public"
 [[d1_databases]]
 binding = "DB"
 database_name = "pvl-league"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "c1cf3ebd-16f1-4fdf-86d4-d1ffeb4fd242"
 migrations_dir = "migrations"
